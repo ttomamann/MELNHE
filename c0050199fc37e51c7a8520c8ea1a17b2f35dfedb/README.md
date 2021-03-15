@@ -5,6 +5,12 @@
         height: 150px;
         overflow: hidden;
     }
+    
+        .crop img {
+        width: 400px;
+        height: 300px;
+        margin: -75px 0 0 -100px;
+    }
 
    <div class="crop">
         <img src="whites.jpg" alt="whites">
