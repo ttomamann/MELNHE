@@ -2,8 +2,7 @@
 
 <div class="crop">
     <img src="whites.jpg" alt="whites">
-</div>
-
+</div>/n
 
 What kind of dataset are you looking for?
 - [Tree inventory](tree_inventory_page.md)
