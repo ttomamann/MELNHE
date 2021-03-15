@@ -1,1 +1,1 @@
-*This page is under construction*
+*Thanks for stopping by, but this page is under construction*
