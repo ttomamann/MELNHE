@@ -1,8 +1,6 @@
 ## Welcome to the MELNHE data repository
 
-<div class="crop">
-    <img src="whites.jpg" alt="whites">
-</div>/n
+![whites](whites.jpg)
 
 What kind of dataset are you looking for?
 - [Tree inventory](tree_inventory_page.md)
