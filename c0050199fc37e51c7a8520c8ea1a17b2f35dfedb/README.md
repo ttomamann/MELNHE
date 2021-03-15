@@ -1,6 +1,6 @@
 ## Welcome to the MELNHE data repository
 
-![White_Mountains](whites.jpg)
+![Image of White_Mountains](whites.jpg)
 
 What kind of dataset are you looking for?
 - [Tree inventory](tree_inventory_page.md)
