@@ -1,6 +1,6 @@
 ## Welcome to the MELNHE data repository
 
-<img src="whites.jpg" alt="drawing" width="200"/>
+<img src="whites.jpg" alt="drawing" width="1000"/>
 
 What kind of dataset are you looking for?
 - [Tree inventory](tree_inventory_page.md)
