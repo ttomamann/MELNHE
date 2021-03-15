@@ -1,11 +1,14 @@
 ## Welcome to the MELNHE data repository
 
-<img src="whites.jpg" alt="whites"/>
     .crop {
         width: 200px;
         height: 150px;
         overflow: hidden;
     }
+
+   <div class="crop">
+        <img src="whites.jpg" alt="whites">
+    </div>
 
 What kind of dataset are you looking for?
 - [Tree inventory](tree_inventory_page.md)
